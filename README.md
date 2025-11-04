@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Mukhesh
 - 👀 Python|Artificial Intelligence|Machine Learning|Generative AI|Large Lamnguage Models| AI Agents
-- 🌱 I’m currently learning Training Large Learning Models
+- 🌱 I’m currently learning Training Large Language Models
 
 
 <!---
@@ -12,11 +12,15 @@ You can click the Preview link to take a look at your changes.
 
 - Artificial Intelligence
 
-- Machine Learning
+- Machine Learning 
 
-- Gen AI
+- Gen AI (Azure Open AI models Integration)
 
-- MySQL
+- VectorDatabases (FAISS,Pinecone)
+
+- Implemented RAG Architecture at Industry level
+
+- SQL
 
 <br/>
 </br>
